@@ -1,0 +1,8 @@
+z,z,z,z,z,z,z,z,z,z
+c,c,c,z,z,z,z,z,z,z
+s,s,s,z,z,z,z,c,c,c
+z,z,z,z,z,z,z,s,s,s
+z,z,z,c,c,c,c,z,z,z
+z,z,z,z,z,z,z,z,z,z
+z,z,z,z,z,z,z,z,z,z
+d,d,d,d,d,d,d,d,d,d
